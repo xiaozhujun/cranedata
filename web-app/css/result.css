@@ -1,0 +1,95 @@
+#title {
+    background-color:#999999;
+    font-size: 20px;
+    height: 32px;
+    margin-left: 230px;
+    margin-top: 71px;
+    width: 94%;
+}
+
+#title1 {
+    background-color: #DCDCDC;
+    font-size: 15px;
+    height: 22px;
+}
+
+#title2 {
+    background-color: #999999;
+    font-size: 20px;
+    height: 32px;
+   /* margin-left: 230px;*/
+    width: 100%;
+}
+
+#title:HOVER {
+    background-color: #DCDCDC;
+}
+
+#title1:HOVER {
+    background-color: #DFE9F6;
+}
+
+#title2:HOVER {
+    background-color: #DCDCDC;
+}
+
+p {
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+#tt {
+    margin-left: 300px;
+}
+
+.demo {
+    margin-left: 240px;
+}
+.querytable{
+
+    margin-left:7px;
+    margin-top: 10px;
+}
+.querytable th{
+    background-color: #EEEEEE;
+    width: 200px;
+    text-align: center;
+    height: 35px;
+}
+.querytable .tm{
+    width: 330px;
+    text-align: center;
+    height: 35px;
+}
+.querytable td{
+    text-align: center;
+    height: 40px;
+}
+.report1{
+    width: 49%;
+    height: 100%;
+    float:left;
+    margin-top: 9px;
+}
+.report2{
+    border:1px solid #999999;
+    width: 50%;
+    height: 100%;
+    float: left;
+    margin-top: 9px;
+    margin-left: 9px;
+    display:none;
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    margin-top: 0px
+}
+.reportleft{
+    width: 221px;
+    float:left
+}
+.selectF{
+    margin-left: 10px;
+    display: none
+}
